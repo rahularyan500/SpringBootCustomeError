@@ -1,0 +1,8 @@
+GIT HUB PUSH Process
+$ git status
+$ git init
+git add .
+git status
+git commit -m "Commit_coment"
+git remote add origin "git hub repo url"
+git push -f origin master
